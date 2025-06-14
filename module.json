@@ -9,6 +9,6 @@
   "scripts": ["scripts/drop-as-tile.js"],
   "esmodules": [],
   "styles": [],
-  "manifest": "https://github.com/MegaZenZero/foundry-drop-tiles/blob/main/module.json",
-  "download": "https://github.com/user-attachments/files/20738813/drop-as-tile.zip"
+  "manifest": "https://raw.githubusercontent.com/MegaZenZero/foundry-drop-tiles/main/module.json",
+  "download": "https://github.com/MegaZenZero/foundry-drop-tiles/releases/latest/download/foundry-drop-tiles.zip"
 }
