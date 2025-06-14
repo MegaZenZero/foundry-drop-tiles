@@ -3,7 +3,7 @@
   "name": "foundry-drop-tiles",
   "title": "Drag-and-Drop Tiles",
   "description": "Allows image files dragged from FilePicker to be placed as tiles on the canvas.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Ryan Cole",
   "minimumCoreVersion": "13",
   "compatibleCoreVersion": "13",
