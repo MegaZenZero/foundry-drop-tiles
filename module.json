@@ -1,4 +1,5 @@
 {
+  "id": "foundry-drop-tiles",
   "name": "foundry-drop-tiles",
   "title": "Drag-and-Drop Tiles",
   "description": "Allows image files dragged from FilePicker to be placed as tiles on the canvas.",
